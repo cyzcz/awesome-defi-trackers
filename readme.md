@@ -202,6 +202,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://defimarketcap.io/protocol/fulcrum
 
 ## General
+- https://www.chain.love/
 - https://defipulse.com/
 - https://etherscan.io/defi-leaderboard
 - http://defimarketcap.io/
@@ -320,6 +321,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 
 ## Oracles 
 - https://oracles.club/
+- https://www.chain.love/
 
 ## PoolTogether
 - https://www.pooltogether.com/#stats
